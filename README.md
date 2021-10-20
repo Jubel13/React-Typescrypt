@@ -1,6 +1,6 @@
 # Project description
 
-This is simple todo list app from udemy course : 'React-The Complete Guide'
+This is simple todo list app from udemy course : 'React-The Complete Guide', using typescript instead of javascript
 
 To use this app on your local machine, download or clone and run 'npm install'
 
